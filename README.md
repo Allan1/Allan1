@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+### Connect with me
+
+<p align="center">
+<a href="https://allan-oliveira.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-allan%20oliveira-blue?style=flat-square&logo=medium"></a>
+<a href="https://www.linkedin.com/in/allanoliveira1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Allan%20Oliveira-blue?style=flat-square&logo=linkedin"></a>
+</p>
 <!--
 **Allan1/Allan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
